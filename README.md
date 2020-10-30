@@ -14,3 +14,11 @@ This is the source code for a Frontend Masters course with Jason Lengstorf about
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## Get Environment Variables:
+
+Save all of these in `.env`
+
+- OMDB_API_KEY - https://omdbapi.com
+- HASURA_API_URL - get this from https://hasura.io
+- HARUSA_ADMIN_SECRET (current Hasura API are open for public, no need to configure specifically)
